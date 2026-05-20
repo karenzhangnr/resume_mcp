@@ -22,7 +22,7 @@ When registered, Claude Code gains 5 tools it can call during a conversation:
 1. Paste a job description
 2. Claude calls classify_jd → confirms job type (DS / DA / AI / FDE / DE)
 3. Claude calls get_bullets → presents all available bullets for your review
-4. You pick 8 Stellantis bullets + 4 Santander bullets (or swap any)
+4. You pick 8 Company A + 4 Company B (or swap any)
 5. Claude drafts a 50-60 word summary → you review and approve / edit
 6. Claude calls update_resume → saves resume_ds_MMDD_XX.tex
 7. Claude calls compile_pdf → PDF opens automatically
