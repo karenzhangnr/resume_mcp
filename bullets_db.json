@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "job_types": ["DS", "DA", "AI", "FDE", "DE"],
+  "jobs": [
+    {
+      "company": "",
+      "title": "",
+      "date_range": "",
+      "location": "",
+      "required_bullet_count": 8,
+      "bullets": []
+    },
+    {
+      "company": "",
+      "title": "",
+      "date_range": "",
+      "location": "",
+      "required_bullet_count": 4,
+      "bullets": []
+    }
+  ]
+}
